@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "AppSec Blog"
 title_separator          : "-"
 name                     : "m0nk3y"
-description              : "Penetration Tester & Security Researcher @ Check Point Software Technologies"
+description              : Security Researcher @ F5 Networks"
 url                      : "https://m0nk3y.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  
 repository               : "m0nk3y-sec/blog.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
